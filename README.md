@@ -1,4 +1,4 @@
-# 🙋‍Hey, Mabuhay to you too.
+# 🙋‍♂️Hey, Mabuhay to you too.
 
 I'm **George Carlo R. Baganao** also known as *jorjeee*, I am currently a Junior at **Tagoloan Community College** taking up **BS in Information Technology**, and also a **UX/UI** Enthusiast. I am an aspiring *software engineer* and *web developer* that prioritises on user satisfaction and experience. 
 
@@ -20,7 +20,10 @@ I'm **George Carlo R. Baganao** also known as *jorjeee*, I am currently a Junior
 8. XAMPP
 9. Figma
 
-**💞Fallen Deeper in Programming💞**
+### 💞Fallen Deeper in Programming💞
+---
+
+*Edited: 27/09/2022*
 
 <!--
 **jorjeee/jorjeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
