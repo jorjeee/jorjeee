@@ -19,11 +19,13 @@ I'm **George Carlo R. Baganao** also known as *jorjeee*, I am currently a Junior
 7. SQL
 8. XAMPP
 9. Figma
+10. Git
+11. GitHub
 
 ### 💞Fallen Deeper in Programming💞
 ---
 
-*Edited: 27/09/2022*
+*Edited: 09/10/2022*
 
 <!--
 **jorjeee/jorjeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
