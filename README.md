@@ -9,7 +9,7 @@ I'm **George Carlo R. Baganao** also known as *jorjeee*, I am currently a Junior
 
 - Facebook: [George Carlo R. Baganao](https://www.facebook.com/ArKNT7)
 
-- Website: [Jorjeee Official Website]([jorjeee.github.io](https://jorjeee.github.io/))
+- Website: [Jorjeee Official Website](https://jorjeee.github.io/)
 
 ### I'm currently learning:
 1. Java
